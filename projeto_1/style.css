@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/*(min-width) 
+celular: 320px - 480px / 
+tablet: 481px - 768px / 
+laptop: 769px - 1024px / 
+desktop : 1025px - 1200px*/
